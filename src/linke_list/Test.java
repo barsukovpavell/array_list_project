@@ -17,7 +17,6 @@ public class Test {
         for (int i = 0; i < 1000000; i++) {
             List.add(i);
         }
-
         long start = System.currentTimeMillis();
 
         for (int i = 0; i < 1000000; i++) {
